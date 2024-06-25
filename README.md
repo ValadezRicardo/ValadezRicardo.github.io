@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, C#, Node.JS, Goland, React.JS
 
 ### Education	        		
-- Ingenieria en Tecnologías de la información | Universidad del Norte (_December 2017_)
+- Information Technology Engineering | Universidad del Norte (_December 2017_)
 
 ## Work Experience
 **Engineering Team Lead @ Nowports (_August 2022 - Present_)**
