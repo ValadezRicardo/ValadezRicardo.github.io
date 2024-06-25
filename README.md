@@ -27,3 +27,5 @@
 ### Outbound 
 Development of new features and fixes, bug fixing and hotfixes within the main outbound application, with data analysis, creation of automated tests to reduce the workload of the QA team, proposing solutions with internal sales and pricing teams.
 
+[LinkedIn](https://www.linkedin.com/in/ricardo-valadez)
+
