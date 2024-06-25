@@ -23,3 +23,7 @@
 - Regularly reporting on project progress and potential issues to stakeholders.
 - Facilitating effective communication within the team and with other stakeholders.
 
+## Projects
+### Outbound 
+Development of new features and fixes, bug fixing and hotfixes within the main outbound application, with data analysis, creation of automated tests to reduce the workload of the QA team, proposing solutions with internal sales and pricing teams.
+
