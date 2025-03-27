@@ -1,4 +1,4 @@
-#Engineering Team Lead
+#Technology Project Manager
 
 #### Technical Skills: Python, SQL, AWS, C#, Node.JS, Goland, React.JS
 
@@ -6,7 +6,16 @@
 - Information Technology Engineering | Universidad del Norte (_December 2017_)
 
 ## Work Experience
-**Engineering Team Lead @ Nowports (_August 2022 - Present_)**
+**Technology Project Manager @ OmicronLab (_February 4, 2025 - Present_)**
+- Overseeing and managing technology projects from inception to completion.
+- Coordinating cross-functional teams to ensure alignment with business goals.
+- Managing resources, budgets, and timelines to drive successful project delivery.
+- Identifying risks and implementing mitigation strategies.
+- Collaborating with stakeholders to define project scope and requirements.
+- Ensuring the adoption of best practices in project management and software development.
+- Driving innovation and process improvements.
+
+**Engineering Team Lead @ Nowports (_August 2022 - February 2025_)**
 - Planning and coordinating software development projects.
 - Task assignment and tracking team progress.
 - Mentoring and developing team members professionally.
