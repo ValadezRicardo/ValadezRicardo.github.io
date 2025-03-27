@@ -35,12 +35,12 @@
 ## Projects
 ### Payment and Supplier Management System 
 Key Features:
-Supplier Management: Register, update, and categorize suppliers with detailed information (tax data, contact details, and payment terms).
-Payment Control: Schedule and track pending, processed, and overdue payments with automated alerts.
-Transaction History: Maintain a detailed record of payments, including associated invoices and receipts.
-Financial Reporting and Analysis: Generate reports on cash flow, scheduled payments, and financial obligations compliance.
-ERP and Accounting Integration: Connect with enterprise management systems for centralized administration.
-Security and Access Control: Role-based permissions to ensure data confidentiality and traceability.
+- Supplier Management: Register, update, and categorize suppliers with detailed information (tax data, contact details, and payment terms).
+- Payment Control: Schedule and track pending, processed, and overdue payments with automated alerts.
+- Transaction History: Maintain a detailed record of payments, including associated invoices and receipts.
+- Financial Reporting and Analysis: Generate reports on cash flow, scheduled payments, and financial obligations compliance.
+- ERP and Accounting Integration: Connect with enterprise management systems for centralized administration.
+- Security and Access Control: Role-based permissions to ensure data confidentiality and traceability.
 
 ### Outbound 
 Development of new features and fixes, bug fixing and hotfixes within the main outbound application, with data analysis, creation of automated tests to reduce the workload of the QA team, proposing solutions with internal sales and pricing teams.
