@@ -1,6 +1,6 @@
 #Technology Project Manager
 
-#### Technical Skills: Python, SQL, AWS, C#, Node.JS, Goland, React.JS
+#### Technical Skills: Python, SQL, AWS, C#, Node.JS, Express.JS, Goland, React.JS
 
 ### Education	        		
 - Information Technology Engineering | Universidad del Norte (_December 2017_)
