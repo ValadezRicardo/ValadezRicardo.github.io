@@ -1,4 +1,4 @@
-### Technology Project Manager
+### Technology Applications Manager
 
 #### Technical Skills: Python, SQL, AWS, C#, Node.JS, Express.JS, Goland, React.JS
 
