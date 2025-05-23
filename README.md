@@ -54,9 +54,11 @@ AI-powered logistics optimization system featuring:
 - **AI/ML integration** in logistics and fintech applications
 - **DevOps automation** and infrastructure as code
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValadezRicardo&show_icons=true&theme=tokyonight)
+[![Streak Stats](https://streak-stats.demolab.com/?user=ValadezRicardo&theme=dark)](https://git.io/streak-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ValadezRicardo&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
 
 ---
 
