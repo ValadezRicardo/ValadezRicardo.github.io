@@ -56,7 +56,7 @@ AI-powered logistics optimization system featuring:
 
 ## 📈 GitHub Stats
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValadezRicardo&show_icons=true&theme=tokyonight)
 
 ---
 
