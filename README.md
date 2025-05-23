@@ -3,6 +3,7 @@
 ** Building scalable logistics and fintech solutions** | **Leading engineering teams to deliver enterprise-grade applications **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardo--valadez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ricardo-valadez)
+[![GitHub](https://img.shields.io/badge/GitHub-ValadezRicardo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValadezRicardo)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:ricardo.valadez159@hotmail.com)
 
 ## 👨‍💼 Leadership & Management
