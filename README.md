@@ -7,7 +7,7 @@
 
 ## 👨‍💼 Leadership & Management
 
-- **2.5+ years** leading engineering teams at scale (Nowports)
+- **5+ years** leading engineering teams at scale (Nowports/OmicronLab)
 - **Cross-functional project management** with stakeholder alignment
 - **Mentoring developers** and driving continuous improvement initiatives
 - **System architecture design** for enterprise logistics and financial systems
