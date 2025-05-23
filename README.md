@@ -43,7 +43,7 @@ AI-powered logistics optimization system featuring:
 
 ## 📊 Impact & Metrics
 
-- **Led teams** of 5-15 developers across multiple projects
+- **Led teams** of 5-35 developers across multiple projects
 - **Reduced delivery times** by 40% through process optimization
 - **Implemented CI/CD pipelines** improving deployment frequency by 3x
 - **Architected systems** handling 10,000+ daily transactions
