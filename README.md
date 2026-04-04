@@ -78,11 +78,12 @@
 
 ## 📊 Impact
 
-- Led engineering teams scaling from **5 → 35+ developers**  
+- Led cross-functional teams (5 → 35+ engineers) across **LATAM and European Union**  
+  including **QA, Software Development, Testing, Product, UX/UI, DevOps, Support, Architecture, and DBA**  
 - Reduced delivery times by **40%** through process optimization  
-- Increased deployment frequency by **3x** with CI/CD  
-- Built systems handling **10,000+ daily transactions**  
-- Enabled business growth through **technology-driven initiatives**  
+- Increased deployment frequency by **3x** with CI/CD implementation  
+- Designed systems handling **10,000+ daily transactions**  
+- Enabled business growth through **technology-driven initiatives and digital transformation**
 
 ---
 
