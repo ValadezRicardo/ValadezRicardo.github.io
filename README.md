@@ -1,59 +1,100 @@
-# Ricardo Valadez | Technology Applications Manager 🚀
+# 🚀 Ricardo Valadez | IT Manager | CDTO
 
-**Building scalable logistics and fintech solutions** | **Leading engineering teams to deliver enterprise-grade applications** 
+**Driving Digital Transformation | Building Scalable Enterprise Platforms | Leading High-Performance Engineering Teams**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardo--valadez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ricardo-valadez)
 [![GitHub](https://img.shields.io/badge/GitHub-ValadezRicardo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValadezRicardo)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:ricardo.valadez159@hotmail.com)
 
-## 👨‍💼 Leadership & Management
+---
 
-- **5+ years** leading engineering teams at scale (Nowports/OmicronLab)
-- **Cross-functional project management** with stakeholder alignment
-- **Mentoring developers** and driving continuous improvement initiatives
-- **System architecture design** for enterprise logistics and financial systems
+## 👨‍💼 Leadership | Strategy | Architecture
+
+- **IT Manager & Certified CDTO** leading digital transformation initiatives  
+- **9+ years** in software engineering, architecture, and technical leadership  
+- Proven track record delivering **enterprise-grade platforms** across logistics, e-commerce, and healthcare  
+- Strong focus on **business + technology alignment**, ensuring systems drive measurable impact  
+- Experience managing **cross-functional teams (5–35 engineers)** and multiple stakeholders  
+
+---
+
+## 🧠 Core Expertise
+
+- Enterprise Architecture & System Design  
+- Digital Transformation Strategy (CDTO)  
+- Cloud & Scalable Infrastructure  
+- Data Governance & Integrations (ERP, APIs, Microservices)  
+- DevOps, CI/CD & Observability  
+- Engineering Leadership & Team Scaling  
+
+---
 
 ## 🛠️ Technical Stack
 
-**Backend & Infrastructure**
-- Python, C#, Node.js, Go
-- AWS Cloud Architecture
-- SQL Database Design & Optimization
+**Backend & Cloud**
+- Node.js, Python, C#, Go  
+- REST APIs & Microservices  
+- AWS / Cloud Architecture  
+- SQL & Data Modeling  
 
-**Frontend & Full-Stack**
-- React.js, Express.js
-- RESTful API Design
-- Microservices Architecture
+**Frontend**
+- React.js, Vite  
+- Modern UI architectures  
 
-## 🏗️ Featured Enterprise Projects
+**DevOps & Tools**
+- CI/CD Pipelines  
+- Docker & Infrastructure Automation  
+- Monitoring & Performance Optimization  
 
-### 🏦 Payment & Supplier Management System
-Enterprise-grade financial management platform with:
-- **Multi-tenant supplier management** with role-based access control
-- **Automated payment scheduling** with predictive analytics
-- **ERP integration** for centralized financial operations
-- **Compliance reporting** and audit trails
+---
 
-### 🚛 Multimodal Logistics Management Platform
-AI-powered logistics optimization system featuring:
-- **Route optimization algorithms** for maritime, air, and ground transport
-- **Real-time GPS tracking** with automated incident management
-- **Predictive demand forecasting** using machine learning
-- **Regulatory compliance automation** for international shipping
+## 🏗️ Featured Projects
 
-## 📊 Impact & Metrics
+### 🏦 Financial & Payment Platform
+- Multi-tenant architecture with **role-based access control**  
+- Automated payment workflows & financial operations  
+- ERP integrations for centralized data governance  
+- Audit-ready systems with compliance tracking  
 
-- **Led teams** of 5-35 developers across multiple projects
-- **Reduced delivery times** by 40% through process optimization
-- **Implemented CI/CD pipelines** improving deployment frequency by 3x
-- **Architected systems** handling 10,000+ daily transactions
+---
+
+### 🚛 Logistics & Supply Chain Platform
+- End-to-end logistics orchestration (air, sea, land)  
+- Real-time tracking & operational visibility  
+- Predictive analytics for demand and routing optimization  
+- High-availability architecture for mission-critical operations  
+
+---
+
+### 🧠 Omicron 360 (Digital Transformation Initiative)
+- Enterprise-wide architecture unifying:
+  - E-commerce  
+  - Warehouse systems  
+  - Healthcare applications  
+  - ERP (SAP)  
+- Focus on **data centralization, scalability, and integration**  
+
+---
+
+## 📊 Impact
+
+- Led engineering teams scaling from **5 → 35+ developers**  
+- Reduced delivery times by **40%** through process optimization  
+- Increased deployment frequency by **3x** with CI/CD  
+- Built systems handling **10,000+ daily transactions**  
+- Enabled business growth through **technology-driven initiatives**  
+
+---
 
 ## 🎯 Current Focus
 
-- **Cloud-native architectures** and serverless solutions
-- **Team scaling strategies** and engineering culture
-- **AI/ML integration** in logistics and fintech applications
-- **DevOps automation** and infrastructure as code
+- Digital Transformation & Enterprise Architecture  
+- AI-driven solutions in logistics & operations  
+- Scalable SaaS & platform design  
+- Building high-performing engineering teams  
+- Founder mindset: **creating impactful tech products (DevTrust 🚀)**  
+
+---
 
 ## 📈 GitHub Activity
 
@@ -63,4 +104,6 @@ AI-powered logistics optimization system featuring:
 
 ---
 
-*"Technology leadership is about enabling teams to build solutions that scale business impact."*
+## 💬 Philosophy
+
+*"Technology is not just about building systems — it's about transforming businesses, empowering teams, and creating scalable impact."*
