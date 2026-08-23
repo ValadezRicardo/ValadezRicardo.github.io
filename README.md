@@ -414,6 +414,8 @@ My GitHub activity reflects my continuous exploration across:
 
 ### 📈 GitHub Activity
 
+*Most of my professional engineering work happens in private and enterprise repositories as part of my role. This public profile reflects personal exploration, prototypes, and side projects.*
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ValadezRicardo&theme=dark)](https://git.io/streak-stats)
 
 [![Ricardo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ValadezRicardo&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)](https://github.com/ValadezRicardo)
@@ -767,6 +769,8 @@ Mi actividad en GitHub refleja mi exploración continua en:
 **Ingeniería de Software · IA · Cloud · Arquitectura · Automatización · Developer Tools · Tecnologías Emergentes**
 
 ### 📈 Actividad en GitHub
+
+*La mayor parte de mi trabajo profesional de ingeniería ocurre en repositorios privados y empresariales como parte de mi rol. Este perfil público refleja exploración personal, prototipos y proyectos paralelos.*
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ValadezRicardo&theme=dark)](https://git.io/streak-stats)
 
