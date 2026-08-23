@@ -389,6 +389,20 @@ while maintaining:
 
 ---
 
+# ⚡ Early Impact in Current Role
+
+In my first weeks in the role, I have been operating in a high-urgency environment where fast structure, clarity, and execution are required.
+
+My current focus has been to establish the foundations of a **Software + AI technology organization at scale**, translating business expectations into operating models, governance, technical direction, and execution mechanisms.
+
+* Structured the initial operating model for a **180+ technology organization** across Software Engineering, Architecture, Product, QA, Automation, Data, DevOps, SecOps, Infrastructure, and Support
+* Established the first version of engineering governance, delivery practices, standards, and cross-functional coordination mechanisms
+* Defined the initial direction for the **Software + AI CoE**, connecting engineering execution, AI adoption, customer-facing solution design, and business value
+* Aligned team leads, priorities, risks, dependencies, and technical capabilities across multiple disciplines
+* Initiated Learning Paths, mentoring practices, and technical development mechanisms to strengthen capability at scale
+
+---
+
 # 📊 Selected Leadership Impact
 
 * Direct leadership accountability for a **180+ technology organization** across multiple teams, disciplines, and seniority levels
@@ -742,6 +756,20 @@ manteniendo:
 ### Gestión
 
 `GitHub` · `Jira` · `Confluence` · `ClickUp` · `Figma` · `n8n`
+
+---
+
+# ⚡ Impacto Inicial en mi Rol Actual
+
+En mis primeras semanas en el rol, he estado operando en un contexto de alta urgencia donde se requiere estructura, claridad y ejecución rápida.
+
+Mi enfoque actual ha sido establecer las bases de una **organización tecnológica de Software + IA a escala**, traduciendo expectativas de negocio en modelos operativos, gobierno, dirección técnica y mecanismos de ejecución.
+
+* Estructuré el modelo operativo inicial para una **organización tecnológica de 180+ profesionales** en Software Engineering, Arquitectura, Producto, QA, Automatización, Data, DevOps, SecOps, Infraestructura y Soporte
+* Establecí la primera versión del gobierno de ingeniería, prácticas de delivery, estándares y mecanismos de coordinación transversal
+* Definí la dirección inicial del **CoE de Software + IA**, conectando ejecución de ingeniería, adopción de IA, diseño de soluciones con clientes y valor de negocio
+* Alineé líderes, prioridades, riesgos, dependencias y capacidades técnicas en múltiples disciplinas
+* Inicié Learning Paths, prácticas de mentoring y mecanismos de desarrollo técnico para fortalecer capacidades a escala
 
 ---
 
