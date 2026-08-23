@@ -438,9 +438,9 @@ My GitHub activity reflects my continuous exploration across:
 
 ### 📈 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ValadezRicardo\&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ValadezRicardo&theme=dark)](https://git.io/streak-stats)
 
-[![Ricardo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ValadezRicardo\&bg_color=1a1b27\&color=be90f2\&line=638fda\&point=35aea1\&area=true\&hide_border=true)](https://github.com/ValadezRicardo)
+[![Ricardo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ValadezRicardo&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)](https://github.com/ValadezRicardo)
 
 > **Strategy ↔ Execution — I believe technology leaders should understand both.**
 
@@ -807,9 +807,9 @@ Mi actividad en GitHub refleja mi exploración continua en:
 
 ### 📈 Actividad en GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ValadezRicardo\&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ValadezRicardo&theme=dark)](https://git.io/streak-stats)
 
-[![Actividad de Ricardo en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ValadezRicardo\&bg_color=1a1b27\&color=be90f2\&line=638fda\&point=35aea1\&area=true\&hide_border=true)](https://github.com/ValadezRicardo)
+[![Actividad de Ricardo en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ValadezRicardo&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)](https://github.com/ValadezRicardo)
 
 > **Estrategia ↔ Ejecución — considero que un líder tecnológico debe entender ambos mundos.**
 
