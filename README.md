@@ -496,6 +496,20 @@ I am particularly interested in:
 
 ---
 
+# 🧭 Where I’m Heading
+
+My professional direction is focused on evolving toward broader technology leadership roles where Software Engineering, Artificial Intelligence, Enterprise Architecture, Product, Data, Cloud, and Digital Transformation converge.
+
+I am particularly oriented toward leadership positions with responsibility for building and scaling technology capabilities, defining technology strategy, enabling responsible AI adoption, modernizing engineering organizations, and translating business challenges into scalable digital solutions.
+
+**Leadership direction:**  
+`Chief Digital Transformation Officer` · `Chief Technology Officer` · `Chief AI Officer` · `VP of Engineering` · `Head of Software Engineering` · `Head of AI Enablement` · `Head of Enterprise Architecture` · `Software + AI CoE Leader` · `Technology Director` · `Digital Transformation Leader`
+
+**Strategic focus:**  
+`Technology Leadership` · `Software + AI Centers of Excellence` · `Digital Transformation` · `Enterprise Architecture` · `AI Enablement` · `Engineering Organizations` · `Technology Strategy`
+
+---
+
 # 📚 Continuous Learning
 
 Technology evolves constantly, and I believe technology leaders must evolve with it.
@@ -850,6 +864,20 @@ Mi enfoque profesional se encuentra en la intersección entre:
 Con especial interés en:
 
 **AI-enabled Software Engineering · Generative AI · AI Agents · Agentic Workflows · Enterprise AI · Software Architecture · Enterprise Architecture · Digital Transformation · Engineering Productivity · Developer Experience · Cloud-native Platforms · Technology Strategy**
+
+---
+
+# 🧭 Hacia dónde voy
+
+Mi dirección profesional está enfocada en evolucionar hacia roles más amplios de liderazgo tecnológico donde convergen Ingeniería de Software, Inteligencia Artificial, Arquitectura Empresarial, Producto, Data, Cloud y Transformación Digital.
+
+Estoy orientado hacia posiciones de liderazgo con responsabilidad sobre la construcción y escalamiento de capacidades tecnológicas, definición de estrategia, adopción responsable de IA, modernización de organizaciones de ingeniería y traducción de retos de negocio en soluciones digitales escalables.
+
+**Dirección de liderazgo:**  
+`Chief Digital Transformation Officer` · `Chief Technology Officer` · `Chief AI Officer` · `VP of Engineering` · `Head of Software Engineering` · `Head of AI Enablement` · `Head of Enterprise Architecture` · `Líder CoE de Software + IA` · `Director de Tecnología` · `Líder de Transformación Digital`
+
+**Enfoque estratégico:**  
+`Liderazgo Tecnológico` · `Centros de Excelencia de Software + IA` · `Transformación Digital` · `Arquitectura Empresarial` · `AI Enablement` · `Organizaciones de Ingeniería` · `Estrategia Tecnológica`
 
 ---
 
