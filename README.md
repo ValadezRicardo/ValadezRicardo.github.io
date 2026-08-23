@@ -8,8 +8,13 @@
 
 > **Building technology organizations, scalable software and AI solutions — from strategy to execution.**
 
-| **180+ Technology Professionals** | **9+ Years in Technology** | **Global Leadership — LATAM & Europe** |
-| --------------------------------- | -------------------------- | -------------------------------------- |
+<table align="center">
+  <tr>
+    <td align="center"><strong>180+ Technology Professionals</strong></td>
+    <td align="center"><strong>9+ Years in Technology</strong></td>
+    <td align="center"><strong>Global Leadership - LATAM & Europe</strong></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://linkedin.com/in/ricardo-valadez">
