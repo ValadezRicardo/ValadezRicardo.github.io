@@ -23,8 +23,8 @@
   <a href="https://github.com/ValadezRicardo">
     <img src="https://img.shields.io/badge/GitHub-ValadezRicardo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:ricardo.valadez159@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  <a href="mailto:valadezricardo159@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-valadezricardo159%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
