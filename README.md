@@ -26,6 +26,9 @@
   <a href="mailto:valadezricardo159@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-valadezricardo159%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.credential.net/1d427e7e-e49f-4554-a78c-22bf4d7231fd#acc.glDUfoj5">
+    <img src="https://img.shields.io/badge/CDTO-Tecnologico%20de%20Monterrey-0055A4?style=for-the-badge&logo=academia&logoColor=white" alt="CDTO - Tecnologico de Monterrey" />
+  </a>
 </p>
 
 ### 🌎 Language
