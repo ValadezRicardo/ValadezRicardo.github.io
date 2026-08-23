@@ -10,7 +10,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><strong>180+ Technology Professionals</strong></td>
+    <td align="center"><strong>180+ Technology Organization</strong></td>
     <td align="center"><strong>9+ Years in Technology</strong></td>
     <td align="center"><strong>Global Leadership - LATAM & Europe</strong></td>
   </tr>
@@ -53,7 +53,7 @@
 
 I am a **Software + AI Center of Excellence Leader and Certified Chief Digital Transformation Officer (CDTO)** with **9+ years of experience** across Software Engineering, Artificial Intelligence, Enterprise Architecture, technology management, digital transformation, and technical leadership.
 
-Today, I lead and coordinate an organization of **180+ technology professionals across multiple seniority levels and technical disciplines**, combining strategic leadership with a strong hands-on engineering background.
+Today, I hold direct leadership accountability for a **180+ technology organization across multiple teams, seniority levels, and technical disciplines**, combining executive coordination, team leads, and cross-functional governance with a strong hands-on engineering background.
 
 Throughout my career, I have helped **build, structure, scale, and lead multidisciplinary technology organizations**, developing specialized capabilities across:
 
@@ -71,11 +71,7 @@ Throughout my career, I have helped **build, structure, scale, and lead multidis
 
 I have experience coordinating **globally distributed and cross-functional teams across LATAM and Europe**, collaborating with engineering teams, business leaders, customers, vendors, and C-Level stakeholders.
 
-My leadership approach combines:
-
-### Business + Strategy + People + Technology + Execution
-
-This allows me to move comfortably between executive conversations, customer engagements, organizational planning, architecture decisions, engineering execution, technology operations, and incident resolution.
+My leadership approach connects **business strategy, people development, technology architecture, and engineering execution**.
 
 ---
 
@@ -85,27 +81,13 @@ As a **Software + AI CoE Leader**, my responsibility goes far beyond software de
 
 I help organizations transform business challenges into scalable technology solutions while developing the **people, processes, architectures, engineering standards, and capabilities** required to deliver them successfully.
 
-My responsibilities include:
+My scope includes:
 
-* Leading and coordinating **180+ technology professionals**
-* Managing professionals across different seniority levels and disciplines
-* Defining engineering standards and technology strategies
-* Establishing software development best practices
-* Designing **custom Software + AI solutions**
-* Technical discovery and requirements analysis
-* Solution architecture
-* Technical assessments
-* Technical estimation and feasibility analysis
-* Technical pre-sales
-* Customer-facing technology conversations
-* Translating technology capabilities into **business value**
-* Supporting commercial teams during solution definition
-* Managing priorities, risks, dependencies, and delivery
-* Creating **Learning Paths and technical development programs**
-* Mentoring engineers and technical leaders
-* Developing continuous improvement initiatives
-* Evaluating emerging technologies
-* Promoting responsible AI adoption throughout the SDLC
+* Technology strategy, engineering standards, architecture direction, and delivery governance
+* Custom **Software + AI solution** design, technical discovery, feasibility analysis, and estimation
+* Customer-facing technology conversations, technical pre-sales, and business value translation
+* Priority, risk, dependency, vendor, and stakeholder management across multidisciplinary teams
+* Learning Paths, mentoring, talent development, continuous improvement, and responsible AI adoption throughout the SDLC
 
 ---
 
@@ -407,23 +389,14 @@ while maintaining:
 
 ---
 
-# 📊 Leadership Impact
+# 📊 Selected Leadership Impact
 
-* Leadership responsibility for **180+ technology professionals**
-* **9+ years** across Software Engineering and Technology Leadership
-* Built and scaled multidisciplinary technology capabilities
-* Built and led capabilities across **Architecture, Software Engineering, Product, Data, QA, Automation, DevOps, SecOps, Infrastructure, and Support**
-* Leadership experience across **LATAM and Europe**
-* Direct collaboration with **C-Level executives and business leaders**
-* Development of engineering governance and technology standards
-* Implementation and evolution of **CI/CD and DevOps practices**
-* Development of observability and application monitoring strategies
-* Technology vendor management
-* Development of **Learning Paths and continuous improvement programs**
-* Mentoring and development of technical talent
-* Participation in **technical pre-sales and customer solution design**
-* Delivery of **webinars and technology presentations**
-* Experience combining **strategic management with hands-on technical execution**
+* Direct leadership accountability for a **180+ technology organization** across multiple teams, disciplines, and seniority levels
+* Built and scaled multidisciplinary capabilities across **Architecture, Software Engineering, Product, Data, QA, Automation, DevOps, SecOps, Infrastructure, and Support**
+* Established and evolved engineering governance, architecture standards, software development practices, CI/CD, DevOps, observability, and application monitoring practices
+* Developed Learning Paths, mentoring practices, technical development programs, and continuous improvement initiatives to strengthen engineering capability at scale
+* Supported customer-facing solution design through technical discovery, requirements analysis, estimation, feasibility assessment, technical pre-sales, and executive presentations
+* Connected technology strategy with delivery execution across LATAM and Europe, working directly with C-Level stakeholders, business leaders, vendors, and engineering teams
 
 ---
 
@@ -501,12 +474,12 @@ I am particularly interested in:
 
 # 🧭 Where I’m Heading
 
-My professional direction is focused on broader senior technology leadership roles where Software Engineering, Artificial Intelligence, Enterprise Architecture, Product, Data, Cloud, and Digital Transformation converge.
+My leadership trajectory is oriented toward senior technology roles where Software Engineering, Artificial Intelligence, Enterprise Architecture, Product, Data, Cloud, and Digital Transformation converge.
 
-I am particularly oriented toward executive and senior leadership positions with responsibility for building and scaling technology capabilities, defining technology strategy, enabling responsible AI adoption, modernizing engineering organizations, and translating business challenges into scalable digital solutions.
+My natural progression is through **Head and VP-level technology leadership** toward broader executive responsibilities, with a focus on building and scaling technology capabilities, defining strategy, enabling responsible AI adoption, modernizing engineering organizations, and translating business challenges into scalable digital solutions.
 
 **Leadership direction:**  
-`Chief Digital Transformation Officer` · `Chief Technology Officer` · `Chief AI Officer` · `VP of Engineering` · `Head of Software Engineering` · `Head of AI Enablement` · `Head of Enterprise Architecture` · `Software + AI CoE Leader`
+`Software + AI CoE Leader` · `Head of Software Engineering` · `Head of AI Enablement` · `Head of Enterprise Architecture` · `VP of Engineering` · `Chief Digital Transformation Officer` · `Chief Technology Officer` · `Chief AI Officer`
 
 **Strategic focus:**  
 `Technology Leadership` · `Software + AI Centers of Excellence` · `Digital Transformation` · `Enterprise Architecture` · `AI Enablement` · `Engineering Organizations` · `Technology Strategy`
@@ -575,7 +548,7 @@ Para una mejor experiencia, la versión web utiliza un selector de idioma **EN /
 
 Soy **Líder de Centro de Excelencia (CoE) de Software + Inteligencia Artificial** y **Chief Digital Transformation Officer (CDTO) certificado**, con más de **9 años de experiencia** en Ingeniería de Software, Inteligencia Artificial, Arquitectura Empresarial, gestión tecnológica, transformación digital y liderazgo técnico.
 
-Actualmente lidero y coordino una organización de **más de 180 profesionales de tecnología de diferentes niveles de seniority y disciplinas**, combinando liderazgo estratégico con una sólida experiencia técnica y operativa.
+Actualmente tengo responsabilidad directa de liderazgo sobre una **organización tecnológica de más de 180 profesionales distribuidos en múltiples equipos, niveles de seniority y disciplinas técnicas**, combinando coordinación ejecutiva, líderes de equipo y gobierno transversal con una sólida experiencia técnica y operativa.
 
 A lo largo de mi carrera he participado en la **creación, estructuración, crecimiento y liderazgo de organizaciones tecnológicas multidisciplinarias**, desarrollando capacidades especializadas en:
 
@@ -593,11 +566,7 @@ A lo largo de mi carrera he participado en la **creación, estructuración, crec
 
 Tengo experiencia coordinando **equipos globales y multidisciplinarios distribuidos en LATAM y Europa**.
 
-Mi enfoque de liderazgo combina:
-
-### Negocio + Estrategia + Personas + Tecnología + Ejecución
-
-Esto me permite desenvolverme desde conversaciones ejecutivas, clientes y planeación estratégica hasta arquitectura, decisiones técnicas, operación tecnológica y ejecución.
+Mi enfoque de liderazgo conecta **estrategia de negocio, desarrollo de personas, arquitectura tecnológica y ejecución de ingeniería**.
 
 ---
 
@@ -607,29 +576,13 @@ Como **Líder CoE de Software + IA**, mi responsabilidad va más allá de la ent
 
 Trabajo en transformar necesidades y problemas de negocio en soluciones tecnológicas escalables mientras desarrollo las **personas, procesos, arquitecturas, estándares y capacidades** necesarias para ejecutarlas.
 
-Entre mis responsabilidades se encuentran:
+Mi alcance incluye:
 
-* Liderazgo y coordinación de **más de 180 profesionales de tecnología**
-* Gestión de talento con diferentes niveles de seniority
-* Definición de estándares de ingeniería
-* Estrategia tecnológica
-* Mejores prácticas de desarrollo
-* Diseño de soluciones de **Software + IA a la medida**
-* Discovery técnico
-* Levantamiento y análisis de requerimientos
-* Arquitectura de soluciones
-* Evaluaciones técnicas
-* Estimaciones y análisis de viabilidad
-* Preventa técnica
-* Participación directa con clientes
-* Traducción de tecnología a **valor de negocio**
-* Apoyo a equipos comerciales
-* Gestión de prioridades, riesgos y dependencias
-* Creación de **Learning Paths**
-* Mentoring y desarrollo de talento
-* Mejora continua
-* Evaluación de tecnologías emergentes
-* Adopción responsable de IA dentro del SDLC
+* Estrategia tecnológica, estándares de ingeniería, dirección de arquitectura y gobierno de entrega
+* Diseño de soluciones de **Software + IA**, discovery técnico, análisis de viabilidad y estimación
+* Conversaciones tecnológicas con clientes, preventa técnica y traducción de capacidades tecnológicas a valor de negocio
+* Gestión de prioridades, riesgos, dependencias, proveedores y stakeholders en equipos multidisciplinarios
+* Learning Paths, mentoring, desarrollo de talento, mejora continua y adopción responsable de IA dentro del SDLC
 
 ---
 
@@ -790,23 +743,14 @@ manteniendo:
 
 ---
 
-# 📊 Impacto
+# 📊 Impacto Seleccionado
 
-* Liderazgo sobre una organización de **180+ profesionales de tecnología**
-* Más de **9 años de experiencia**
-* Creación y liderazgo de capacidades de **Arquitectura, Software, Producto, Data, QA, Automatización, DevOps, SecOps, Infraestructura y Soporte**
-* Gestión de equipos distribuidos en **LATAM y Europa**
-* Colaboración directa con **C-Level y líderes de negocio**
-* Definición de estándares técnicos y gobierno de ingeniería
-* Implementación y evolución de **DevOps y CI/CD**
-* Estrategias de observabilidad y monitoreo
-* Gestión de proveedores tecnológicos
-* Creación de **Learning Paths y programas de mejora continua**
-* Mentoring y desarrollo de talento
-* Participación en **preventa técnica**
-* Diseño de soluciones con clientes
-* Participación en **webinars y presentaciones ejecutivas**
-* Capacidad para combinar **gestión estratégica con ejecución técnica**
+* Responsabilidad directa de liderazgo sobre una **organización tecnológica de 180+ profesionales** distribuidos en múltiples equipos, disciplinas y niveles de seniority
+* Creación y escalamiento de capacidades multidisciplinarias de **Arquitectura, Software, Producto, Data, QA, Automatización, DevOps, SecOps, Infraestructura y Soporte**
+* Definición y evolución de gobierno de ingeniería, estándares de arquitectura, prácticas de desarrollo, CI/CD, DevOps, observabilidad y monitoreo de aplicaciones
+* Desarrollo de Learning Paths, prácticas de mentoring, programas de desarrollo técnico e iniciativas de mejora continua para fortalecer capacidades de ingeniería a escala
+* Apoyo al diseño de soluciones con clientes mediante discovery técnico, levantamiento de requerimientos, estimación, análisis de viabilidad, preventa técnica y presentaciones ejecutivas
+* Conexión entre estrategia tecnológica y ejecución de delivery en LATAM y Europa, colaborando directamente con stakeholders C-Level, líderes de negocio, proveedores y equipos de ingeniería
 
 ---
 
@@ -872,12 +816,12 @@ Con especial interés en:
 
 # 🧭 Hacia dónde voy
 
-Mi dirección profesional está enfocada en evolucionar hacia roles senior más amplios de liderazgo tecnológico donde convergen Ingeniería de Software, Inteligencia Artificial, Arquitectura Empresarial, Producto, Data, Cloud y Transformación Digital.
+Mi trayectoria de liderazgo está orientada hacia roles senior de tecnología donde convergen Ingeniería de Software, Inteligencia Artificial, Arquitectura Empresarial, Producto, Data, Cloud y Transformación Digital.
 
-Estoy orientado hacia posiciones ejecutivas y de liderazgo senior con responsabilidad sobre la construcción y escalamiento de capacidades tecnológicas, definición de estrategia, adopción responsable de IA, modernización de organizaciones de ingeniería y traducción de retos de negocio en soluciones digitales escalables.
+Mi progresión natural está en roles de liderazgo tecnológico de **nivel Head y VP** hacia responsabilidades ejecutivas más amplias, con enfoque en construir y escalar capacidades tecnológicas, definir estrategia, habilitar adopción responsable de IA, modernizar organizaciones de ingeniería y traducir retos de negocio en soluciones digitales escalables.
 
 **Dirección de liderazgo:**  
-`Chief Digital Transformation Officer` · `Chief Technology Officer` · `Chief AI Officer` · `VP of Engineering` · `Head of Software Engineering` · `Head of AI Enablement` · `Head of Enterprise Architecture` · `Líder CoE de Software + IA`
+`Líder CoE de Software + IA` · `Head of Software Engineering` · `Head of AI Enablement` · `Head of Enterprise Architecture` · `VP of Engineering` · `Chief Digital Transformation Officer` · `Chief Technology Officer` · `Chief AI Officer`
 
 **Enfoque estratégico:**  
 `Liderazgo Tecnológico` · `Centros de Excelencia de Software + IA` · `Transformación Digital` · `Arquitectura Empresarial` · `AI Enablement` · `Organizaciones de Ingeniería` · `Estrategia Tecnológica`
